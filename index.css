@@ -1,0 +1,10 @@
+h1{
+    color: rgba(249, 127, 81,1.0);
+    /*chinh mau*/
+    font-family: 'Lato', sans-serif; /*Chinh font chu, Lato, neu co sai sot, font chu hien thi laf sans-serif*/
+    font-weight: 500; /*Do dam nhat cua chu*/
+    font-size: 40px; /*Kich thuoc chu*/
+}
+textarea{
+    display: block;
+}
